@@ -1,0 +1,3 @@
+[submodule "mail-merge-py"]
+	path = mail-merge-py
+	url = https://github.com/hrj0903/mail-merge-py.git
