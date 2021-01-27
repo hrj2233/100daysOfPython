@@ -4,3 +4,6 @@
 [submodule "ping-pong-py"]
 	path = ping-pong-py
 	url = https://github.com/hrj0903/ping-pong-py.git
+[submodule "snake-game-py"]
+	path = snake-game-py
+	url = https://github.com/hrj0903/snake-game-py.git
