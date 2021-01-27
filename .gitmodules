@@ -1,3 +1,6 @@
 [submodule "mail-merge-py"]
 	path = mail-merge-py
 	url = https://github.com/hrj0903/mail-merge-py.git
+[submodule "ping-pong-py"]
+	path = ping-pong-py
+	url = https://github.com/hrj0903/ping-pong-py.git
